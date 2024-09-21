@@ -1,4 +1,5 @@
-# jwt-secret
+# jwt-secret [![Go Reference](https://pkg.go.dev/badge/github.com/DeanPDX/jwt-secret.svg)](https://pkg.go.dev/github.com/DeanPDX/jwt-secret)
+
 This is a utility for internal use to generate a base64-encoded cryptographically secure JWT signing secret using [crypto/rand](https://pkg.go.dev/crypto/rand).
 
 ## Usage
